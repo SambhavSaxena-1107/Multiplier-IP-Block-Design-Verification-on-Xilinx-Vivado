@@ -1,1 +1,2 @@
 # Multiplier-IP-Block-Design-Verification-on-Xilinx-Vivado
+The project demonstrates the process of creating a multiplier IP core, integrating it into a block design, and verifying its functionality through simulation. It aims to help users efficiently implement and test multiplier circuits, ensuring their correctness and performance within FPGA designs. Comprehensive documentation and example projects are included to facilitate understanding and application.
